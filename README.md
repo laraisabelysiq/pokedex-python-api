@@ -47,6 +47,10 @@ https://pokemon.danielpimentel.com.br/v1/pokemon
 
 As imagens dos Pokémon são obtidas através do repositório de sprites do PokéAPI.
 
+## 📸 Interface
+
+![Pokédex](screenshot.png)
+
 ## 📂 Estrutura do projeto
 Pokedex Python API/
 │
